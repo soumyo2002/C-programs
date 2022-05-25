@@ -1,3 +1,5 @@
+//Program to create linkedlist
+
 /* ptr==NULL(means LL is empty) whereas ptr->link==NULL (means adress of LL is link).
 Example: there is an LL:23->42->73->NULL
 now ptr==NULL then enter 99->NULL then new LL will be 23->42->73->NULL  99->NULL(a disjointed LL)
